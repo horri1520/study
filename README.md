@@ -57,23 +57,23 @@
 
 ## Algorithm
 
-    - Programming Contest
+- Programming Contest
 
-        - [ ] プログラミングコンテスト チャレンジブック
+  - [ ] プログラミングコンテスト チャレンジブック
 
 ## Python
 
-    - Statistics
+- Statistics
 
-        - [ ] Pythonで学ぶ あたらしい統計学の教科書
+  - [ ] Python で学ぶ あたらしい統計学の教科書
 
-    - Tensorflow / Keras
+- Tensorflow / Keras
 
-        - [ ] 現場で使える！TensorFlow開発入門
-        - [ ] PythonとKerasによるディープラーニング
+  - [ ] 現場で使える！TensorFlow 開発入門
+  - [ ] Python と Keras によるディープラーニング
 
 ## Other
 
-    - SQL
+- SQL
 
-        - [ ] SQL ゼロから始めるデータベース操作
+  - [ ] SQL ゼロから始めるデータベース操作
