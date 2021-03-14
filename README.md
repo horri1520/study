@@ -14,7 +14,7 @@
 - React.js
 
   - [ ] 入門 React
-  - [ ] React.js & Next.js 超入門
+  - [ ] React.js & Next.js 超入門 第2版
 
 - Gatsby.js
 
